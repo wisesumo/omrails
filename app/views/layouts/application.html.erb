@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>FinTech Hunt</title>
+    <title>FinHunt</title>
     <%= csrf_meta_tags %>
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
@@ -10,9 +10,17 @@
 
   <body>
 
-    <%= render 'layouts/navbar' %>
 
-    <%= yield %>
+
+    <div class="container">
+        <%= render 'layouts/navbar' %>
+        <br />
+        <br />
+        <%= yield %>
+        <br />
+        <br />
+        <%= render 'layouts/footer' %>
+    </div>
 
 
 
