@@ -1,24 +1,8 @@
-# README
+# FinHunt
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+The hottest news on finance and banking tech
 
-* Ruby version
+FinHunt is a curation of the best new FinTech startup, every day.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Discover the latest financial mobile apps, websites, and technology products that everyone's talking about.
